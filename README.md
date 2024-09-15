@@ -6,10 +6,11 @@
   <br>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Planned_version-Fabric_1.21.1-d4c9ae?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fkeremyurekli%2Fnot-enough-oxygen%2Freleases&link=https%3A%2F%2Fgithub.com%2Fkeremyurekli%2Fnot-enough-oxygen%2Freleases">
-  <img alt="Dynamic Badge" src="https://img.shields.io/github/license/keremyurekli/not-enough-oxygen?style=for-the-badge&cachebuster=1">
-  <img alt="Dynamic Badge" src="https://img.shields.io/github/release/keremyurekli/not-enough-oxygen?style=for-the-badge&cachebuster=2">
-  <img alt="Dynamic Badge" src="https://img.shields.io/github/issues/keremyurekli/not-enough-oxygen?style=for-the-badge&cachebuster=3">
-  <img alt="Dynamic Badge" src="https://img.shields.io/github/stars/keremyurekli/not-enough-oxygen?style=for-the-badge&cachebuster=4">
+
+  <img alt="Dynamic Badge" src="https://img.shields.io/github/license/keremyurekli/not-enough-oxygen?style=for-the-badge">
+  <img alt="Dynamic Badge" src="https://img.shields.io/github/release/keremyurekli/not-enough-oxygen?style=for-the-badge">
+  <img alt="Dynamic Badge" src="https://img.shields.io/github/issues/keremyurekli/not-enough-oxygen?style=for-the-badge">
+  <img alt="Dynamic Badge" src="https://img.shields.io/github/stars/keremyurekli/not-enough-oxygen?style=for-the-badge">
 
 
 </h1>
