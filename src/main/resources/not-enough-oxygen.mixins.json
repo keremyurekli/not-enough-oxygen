@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.keremyurekli.mod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlockEventsMixin",
+    "ExampleMixin",
+    "physics.BlockReplaceMixin",
+    "physics.FlowMixin",
+    "physics.PistonFixMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": []
+}

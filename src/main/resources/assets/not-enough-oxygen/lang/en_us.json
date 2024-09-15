@@ -1,0 +1,15 @@
+{
+  "block.not-enough-oxygen.debug_cube1": "Debug Cube 1",
+  "block.not-enough-oxygen.debug_cube2": "Debug Cube 2",
+
+  "block.not-enough-oxygen.water_still": "Water",
+
+  "fluid.not-enough-oxygen.water_still": "Water",
+  "fluid.not-enough-oxygen.water_flowing": "Water",
+
+  "item.not-enough-oxygen.sponge_and_bucket": "Sponge And Bucket",
+  "item.not-enough-oxygen.sponge_and_bucket.fluidinfo": "Contains: %dmL / %dmL of %s.",
+  "item.not-enough-oxygen.sponge_and_bucket.empty": "Empty",
+  "item.not-enough-oxygen.sponge_and_bucket.tip": "Sneak while using to empty the bucket.",
+  "item.not-enough-oxygen.sponge_and_bucket.description": "A bucket that comes with sponge, can collect up to 1000mL"
+}

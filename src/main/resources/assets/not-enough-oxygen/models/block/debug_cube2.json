@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "not-enough-oxygen:block/debug_cube2"
+  }
+}

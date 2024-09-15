@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "not-enough-oxygen:item/water_bucket",
+    "layer1": "not-enough-oxygen:item/bucket"
+  }
+}

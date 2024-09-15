@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "not-enough-oxygen:water_still",
+    "not-enough-oxygen:water_flowing"
+  ]
+}
